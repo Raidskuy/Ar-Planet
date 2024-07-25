@@ -15,7 +15,7 @@ Follow these steps to install the application:
 1. **Download Files:**
     - Download the ZIP file from this repository and extract all its contents.
 2. **Open in Android Studio:**
-    - Open the project folder in Android Studio.
+    - Open the project folder in Unity.
 3. **Build and Run:**
     - Build the project and run it to create the `.apk` file.
 4. **Install .apk:**
