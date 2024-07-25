@@ -1,39 +1,38 @@
 # AR Planet Learning App
 
-Ini adalah aplikasi Augmented Reality (AR) yang menampilkan objek 3D dari 8 planet. Aplikasi ini dirancang untuk membantu pengguna belajar mengenal planet dengan cara yang interaktif. Aplikasi ini dirancang untuk perangkat Android dengan spesifikasi rendah, minimal Android versi 8, dan dikembangkan menggunakan Android Studio.
+This is an Augmented Reality (AR) application that displays 3D objects of 8 planets. The app is designed to help users learn about planets in an interactive way. It is optimized for low-spec Android devices, with a minimum requirement of Android version 8, and developed using Android Studio.
 
+## Features
 
-## Fitur
+- **Rotating 3D Objects:** Displays rotating 3D models of 8 planets.
+- **Planet Information:** Provides detailed information about each planet.
+- **Directional Lighting:** Uses directional lighting for realistic visual effects.
 
-- **Objek 3D yang Berputar:** Menampilkan model 3D dari 8 planet yang dapat berputar.
-- **Informasi Tentang Planet:** Menyediakan informasi detail tentang setiap planet.
-- **Directional Lighting:** Menggunakan pencahayaan arah untuk efek visual yang realistis.
+## Installation
 
-## Instalasi
+Follow these steps to install the application:
 
-Ikuti langkah-langkah berikut untuk menginstal aplikasi ini:
+1. **Download Files:**
+    - Download the ZIP file from this repository and extract all its contents.
+2. **Open in Android Studio:**
+    - Open the project folder in Android Studio.
+3. **Build and Run:**
+    - Build the project and run it to create the `.apk` file.
+4. **Install .apk:**
+    - Install the generated `.apk` file on your Android device.
 
-1. **Unduh Berkas:**
-    - Download file ZIP dari repository ini dan ekstrak semua isinya.
-2. **Buka di Android Studio:**
-    - Buka folder proyek di Android Studio.
-3. **Bangun dan Jalankan:**
-    - Bangun proyek dan jalankan untuk membuat file `.apk`.
+## Usage
 
-    ```bash
-    ./gradlew build
-    ```
+After installing the app, you can use it as follows:
 
-4. **Pasang .apk:**
-    - Instal file `.apk` yang dihasilkan pada perangkat Android Anda.
+1. **Open the App:**
+    - Open the AR Planet Learning app on your Android device.
+2. **Select a Planet:**
+    - Scan one of the 8 planets to view the rotating 3D model and detailed information about that planet. Target markers are available in the ZIP file.
+3. **Interact:**
+    - The model will rotate at the speed corresponding to each planet.
 
-## Penggunaan
+## Preview
+![Screenshot_20240618_025823_Multimedia_Mixed_Reality](https://github.com/user-attachments/assets/244108a9-e55a-42a4-9bef-af9bdd3f645a)
+![Screenshot_20240618_025831_Multimedia_Mixed_Reality](https://github.com/user-attachments/assets/9c5361b0-dc64-474e-8774-ca2e5af62c20)
 
-Setelah aplikasi terpasang, Anda dapat menggunakannya dengan cara berikut:
-
-1. **Buka Aplikasi:**
-    - Buka aplikasi AR Planet Learning di perangkat Android Anda.
-2. **Pilih Planet:**
-    - Scan satu dari 8 planet untuk melihat model 3D yang berputar dan informasi detail tentang planet tersebut. Tersedia target marking didalam .zip
-3. **Interaksi:**
-    - Gunakan sentuhan untuk memutar model 3D dan menjelajahi informasi yang tersedia.
